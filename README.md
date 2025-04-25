@@ -34,7 +34,7 @@ una perspectiva técnica más amplia.
 
 ### 📈 GitHub Stats
 
-![Jancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![Jancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JancarloGCdev&show_icons=true&theme=radical)
 
 ---
 
