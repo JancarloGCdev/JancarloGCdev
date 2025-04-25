@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy Jancarlo</h1>
 <h3 align="center">Desarrollador Frontend con un toque de Backend y redes ☁️</h3>
 
 ---
@@ -28,9 +28,9 @@ una perspectiva técnica más amplia.
 
 ### 📫 Contacto
 
-- 📧 [Tu correo]
-- 🌐 [Tu sitio web o portafolio]
-- 💼 [LinkedIn] (si tienes)
+- 📧 jancarlogallonc@gmail.com
+- 🌐 
+- 💼 LinkedIn/Jancarlo (https://www.linkedin.com/in/jancarlo-gall%C3%B3n-cano-bb59a6335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
