@@ -29,12 +29,12 @@ una perspectiva técnica más amplia.
 ### 📫 Contacto
 
 - 📧 jancarlogallonc@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/Jancarlo)
+- 💼 [LinkedIn/Jancarlo](https://www.linkedin.com/in/Jancarlo)
 ---
 
 ### 📈 GitHub Stats
 
-![Jancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![Jancarlo's GitHub stats]([https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical](https://www.linkedin.com/in/jancarlo-gall%C3%B3n-cano-bb59a6335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 ---
 
