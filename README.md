@@ -20,10 +20,6 @@ Building scalable applications, interactive user experiences and AI-powered solu
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:TU_CORREO">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -76,19 +72,17 @@ jancarlo@github:~$ cat current_focus.md
 ```text
 ✔ AI Engineering
 
-✔ Next.js
-
-✔ Three.js
-
-✔ GSAP
-
-✔ Python
-
 ✔ Azure
 
 ✔ Cybersecurity
 
-✔ English
+✔ Next.js
+
+✔ Python
+
+✔ Three.js
+
+✔ GSAP
 ```
 
 ---
@@ -154,21 +148,28 @@ AI-powered platform that detects duplicate reports, groups incidents automatical
 
 ---
 
-## 🌐 Portfolio v2
+## 📚 PaperTrail Commerce
+
+A modern full-stack e-commerce platform built for book enthusiasts. PaperTrail delivers a seamless online shopping experience with secure authentication, 
+product catalog browsing, category filtering, shopping cart management, and an intuitive checkout process.
+
+---
+
+## 🌐 Portfolio
 
 Interactive portfolio built with Next.js, GSAP and Three.js focused on performance, animations and immersive user experience.
+
+---
+
+## ☀️ SolarBrain
+A business platform designed to simplify the management and commercialization of solar energy solutions.
+The application centralizes customer information, project tracking, product management, and business operations through a modern and intuitive web interface.
 
 ---
 
 ## 🔐 Cybersecurity Labs
 
 Collection of networking, Linux, cybersecurity and Blue Team practice labs.
-
----
-
-## 📊 Data Analysis
-
-Python notebooks focused on automation, visualization and data analysis.
 
 ---
 
@@ -223,14 +224,12 @@ jancarlo@github:~$ contact
 ```
 
 ```yaml
-Email:
-  your@email.com
 
 LinkedIn:
   https://linkedin.com/in/jancarlo-gc
 
 Portfolio:
-  Coming Soon...
+  https://portafolio-jancarlo.vercel.app/
 ```
 
 ---
