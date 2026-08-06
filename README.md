@@ -1,35 +1,244 @@
-<h1 align="center">¡Hola! 👋 Soy Jancarlo</h1>
-<h3 align="center">Desarrollador Frontend con un toque de Backend y redes ☁️</h3>
+<!-- ========================================================= -->
+<!--                    PROFILE README                         -->
+<!-- ========================================================= -->
+
+<h1 align="center">
+  👋 Hi, I'm Jancarlo Gallón Cano
+</h1>
+
+<h3 align="center">
+Software Engineer • Web Development • AI • Cybersecurity
+</h3>
+
+<p align="center">
+Building scalable applications, interactive user experiences and AI-powered solutions.
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/jancarlo-gc">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:TU_CORREO">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-### 🚀 Sobre mí
+# 💻 Developer Console
 
-Soy un desarrollador frontend especializado en **React**, con experiencia creando interfaces modernas,
- responsivas y eficientes usando **Next.js**, **Tailwind CSS**, **HTML**, **CSS**, **JavaScript** y **TypeScript**.
+```console
+jancarlo@github:~$ whoami
+```
 
-También tengo conocimientos en el backend con **Node.js**, lo que me permite desenvolverme bien en entornos full stack.
+```yaml
+Name: Jancarlo Gallón Cano
 
-Además, cuento con experiencia en configuración y diseño de redes utilizando tecnologías **Cisco**, lo que me da 
-una perspectiva técnica más amplia.
+Role: Software Engineer
+
+Location: Colombia 🇨🇴
+
+Focus:
+  - Modern Web Development
+  - Artificial Intelligence
+  - Cybersecurity
+  - Cloud Technologies
+
+Status:
+  Open to new opportunities
+```
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+# 🚀 About Me
 
-- ⚛️ React / Next.js  
-- 🎨 Tailwind CSS / CSS3 / HTML5  
-- 💻 JavaScript / TypeScript  
-- 🛠️ Node.js  
-- 🌐 Cisco Networking  
-- 🧰 Git / GitHub  
+```console
+jancarlo@github:~$ cat about.md
+```
+
+I'm a Software Engineer passionate about building modern web applications that combine excellent user experience with solid backend architecture.
+
+Currently, I'm expanding my expertise in Artificial Intelligence, Cybersecurity and Cloud technologies while creating projects that solve real-world problems.
+
+I enjoy learning new technologies, improving every day and transforming ideas into products that people actually use.
 
 ---
 
-### 📫 Contacto
+# ⚡ Current Focus
 
-- 📧 jancarlogallonc@gmail.com
-- 💼 [LinkedIn/Jancarlo](https://www.linkedin.com/in/jancarlo-gall%C3%B3n-cano-bb59a6335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+```console
+jancarlo@github:~$ cat current_focus.md
+```
+
+```text
+✔ AI Engineering
+
+✔ Next.js
+
+✔ Three.js
+
+✔ GSAP
+
+✔ Python
+
+✔ Azure
+
+✔ Cybersecurity
+
+✔ English
+```
+
 ---
 
-¡Gracias por visitar mi perfil! 😄  
+# 🛠 Tech Stack
+
+```console
+jancarlo@github:~$ tree technologies/
+```
+
+```text
+technologies
+│
+├── Frontend
+│   ├── Next.js
+│   ├── React
+│   ├── TypeScript
+│   ├── JavaScript
+│   ├── Tailwind CSS
+│   └── HTML/CSS
+│
+├── Backend
+│   ├── .NET
+│   ├── Node.js
+│   ├── REST APIs
+│   └── Python
+│
+├── Databases
+│   ├── SQL Server
+│   └── PostgreSQL
+│
+├── Cloud & DevOps
+│   ├── Azure
+│   ├── Docker
+│   ├── Git
+│   └── Linux
+│
+└── Networking & Security
+    ├── Cisco Networking
+    ├── Blue Team Fundamentals
+    └── Fortinet
+```
+
+<br>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,dotnet,python,postgres,docker,azure,linux,git,vscode"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+```console
+jancarlo@github:~$ ls projects/
+```
+
+## 🤖 Smart School Reports
+
+AI-powered platform that detects duplicate reports, groups incidents automatically and helps educational institutions prioritize maintenance tasks.
+
+---
+
+## 🌐 Portfolio v2
+
+Interactive portfolio built with Next.js, GSAP and Three.js focused on performance, animations and immersive user experience.
+
+---
+
+## 🔐 Cybersecurity Labs
+
+Collection of networking, Linux, cybersecurity and Blue Team practice labs.
+
+---
+
+## 📊 Data Analysis
+
+Python notebooks focused on automation, visualization and data analysis.
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JancarloGCdev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JancarloGCdev&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JancarloGCdev&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```console
+jancarlo@github:~$ learning --list
+```
+
+```text
+• Artificial Intelligence
+
+• AI Agents & MCP
+
+• Three.js
+
+• GSAP
+
+• Azure
+
+• Docker
+
+• Cybersecurity
+
+• Advanced English
+```
+
+---
+
+# 🤝 Let's Connect
+
+```console
+jancarlo@github:~$ contact
+```
+
+```yaml
+Email:
+  your@email.com
+
+LinkedIn:
+  https://linkedin.com/in/jancarlo-gc
+
+Portfolio:
+  Coming Soon...
+```
+
+---
+
+```console
+jancarlo@github:~$ exit
+
+Connection closed successfully.
+
+Thanks for visiting my profile 👋
+```
